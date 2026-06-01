@@ -60,7 +60,7 @@ Key observations:
 
 * During the early stages, the model explored multiple advertisements to gather information.
 * As more customer interactions were observed, confidence estimates improved.
-* From approximately **500 customer observations onwards**, the algorithm consistently recognized Advertisement 4 as the optimal choice.
+* From approximately **1000 customer observations onwards**, the algorithm consistently recognized Advertisement 4 as the optimal choice.
 * Beyond this point, the model increasingly allocated traffic to Advertisement 4, maximizing overall clicks.
 
 ---
